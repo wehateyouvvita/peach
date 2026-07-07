@@ -4,5 +4,5 @@
 /peach/ (Home Tab)
 <img width="1869" height="1047" alt="image" src="https://github.com/user-attachments/assets/c41bdb10-7305-4fab-a2db-bbdbe698e835" />
 /peach/auth (Sign In Page)
-<br>
+<br><br>
 <p>This project is entirely PHP, HTML and CSS, and for the web. The current development version consists of two pages: an auth page for login and sign up, and then the main page, with all tabs included. Sound effects from the original XBOX game have been used, as well as other images. The project is still under development, submenus etc. are still not done, however the main pages and tabs hae already been completed.</p>
